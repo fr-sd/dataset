@@ -1,106 +1,109 @@
 regione,capoluogo,lat,lon
-Abruzzo,Chieti,42°21′N,14°10′E
-Abruzzo,L'Aquila,42°21′N,13°23′E
-Abruzzo,Pescara,42°27′N,14°12′E
-Abruzzo,Teramo,42°39′N,13°42′E
-Basilicata,Matera,40°40′N,16°36′E
-Basilicata,Potenza,40°38′N,15°48′E
-Calabria,Catanzaro,38°54′N,16°35′E
-Calabria,Cosenza,39°18′N,16°15′E
-Calabria,Crotone,39°05′N,17°07′E
-Calabria,Reggio Calabria,38°06′N,15°39′E
-Calabria,Vibo Valentia,38°40′N,16°05′E
-Campania,Avellino,40°54′N,14°47′E
-Campania,Benevento,41°08′N,14°47′E
-Campania,Caserta,41°04′N,14°20′E
-Campania,Napoli,40°50′N,14°15′E
-Campania,Salerno,40°40′N,14°45′E
-Emilia-Romagna,Bologna,44°29′N,11°20′E
-Emilia-Romagna,Cesena,44°08′N,12°14′E
-Emilia-Romagna,Ferrara,44°50′N,11°37′E
-Emilia-Romagna,Forli,44°13′N,12°02′E
-Emilia-Romagna,Modena,44°38′N,10°55′E
-Emilia-Romagna,Parma,44°48′N,10°19′E
-Emilia-Romagna,Piacenza,45°03′N,9°42′E
-Emilia-Romagna,Ravenna,44°24′N,12°12′E
-Emilia-Romagna,Reggio Emilia,44°42′N,10°38′E
-Emilia-Romagna,Rimini,44°03′N,12°34′E
-Friuli-Venezia Giulia,Gorizia,45°56′N,13°37′E
-Friuli-Venezia Giulia,Pordenone,45°57′N,12°39′E
-Friuli-Venezia Giulia,Trieste,45°39′N,13°46′E
-Friuli-Venezia Giulia,Udine,46°04′N,13°14′E
-Lazio,Frosinone,41°38′N,13°21′E
-Lazio,Latina,41°28′N,12°54′E
-Lazio,Rieti,42°24′N,12°51′E
-Lazio,Roma,41°53′N,12°28′E
-Lazio,Viterbo,42°25′N,12°06′E
-Liguria,Genova,44°24′N,8°56′E
-Liguria,Imperia,43°53′N,8°01′E
-Liguria,La Spezia,44°06′N,9°49′E
-Liguria,Savona,44°18′N,8°28′E
-Lombardia,Bergamo,45°41′N,9°40′E
-Lombardia,Brescia,45°32′N,10°13′E
-Lombardia,Como,45°48′N,9°05′E
-Lombardia,Cremona,45°08′N,10°02′E
-Lombardia,Lecco,45°51′N,9°24′E
-Lombardia,Lodi,45°19′N,9°30′E
-Lombardia,Mantova,45°09′N,10°47′E
-Lombardia,Milano,45°28′N,9°11′E
-Lombardia,Pavia,45°11′N,9°09′E
-Lombardia,Sondrio,46°10′N,9°52′E
-Lombardia,Varese,45°49′N,8°50′E
-Marche,Ancona,43°37′N,13°31′E
-Marche,Ascoli Piceno,42°51′N,13°34′E
-Marche,Fermo,43°09′N,13°43′E
-Marche,Macerata,43°18′N,13°27′E
-Molise,Campobasso,41°33′N,14°40′E
-Molise,Isernia,41°36′N,14°14′E
-Piemonte,Alessandria,44°54′N,8°37′E
-Piemonte,Asti,44°54′N,8°12′E
-Piemonte,Biella,45°33′N,8°03′E
-Piemonte,Cuneo,44°23′N,7°33′E
-Piemonte,Novara,45°27′N,8°37′E
-Piemonte,Torino,45°04′N,7°42′E
-Piemonte,Vercelli,45°19′N,8°25′E
-Puglia,Andria,41°13′N,16°18′E
-Puglia,Bari,41°07′N,16°52′E
-Puglia,Barletta,41°19′N,16°17′E
-Puglia,Brindisi,40°38′N,17°56′E
-Puglia,Foggia,41°27′N,15°33′E
-Puglia,Lecce,40°21′N,18°10′E
-Puglia,Taranto,40°25′N,17°14′E
-Puglia,Trani,41°16′N,16°25′E
-Sardegna,Cagliari,39°13′N,9°07′E
-Sardegna,Nuoro,40°19′N,9°19′E
-Sardegna,Oristano,39°54′N,8°35′E
-Sardegna,Sassari,40°43′N,8°33′E
-Sicilia,Agrigento,37°18′N,13°34′E
-Sicilia,Caltanissetta,37°29′N,14°03′E
-Sicilia,Catania,37°30′N,15°05′E
-Sicilia,Enna,37°34′N,14°16′E
-Sicilia,Messina,38°11′N,15°33′E
-Sicilia,Palermo,38°06′N,13°21′E
-Sicilia,Ragusa,36°55′N,14°43′E
-Sicilia,Siracusa,37°04′N,15°17′E
-Sicilia,Trapani,38°01′N,12°30′E
-Toscana,Arezzo,43°27′N,11°52′E
-Toscana,Firenze,43°46′N,11°15′E
-Toscana,Grosseto,42°46′N,11°06′E
-Toscana,Livorno,43°33′N,10°19′E
-Toscana,Lucca,43°51′N,10°31′E
-Toscana,Pisa,43°43′N,10°24′E
-Toscana,Pistoia,43°56′N,10°55′E
-Toscana,Prato,43°52′N,11°05′E
-Toscana,Siena,43°19′N,11°19′E
-Trentino Alto-Adige,Bolzano,46°30′N,11°21′E
-Trentino Alto-Adige,Trento,46°04′N,11°07′E
-Umbria,Perugia,43°06′N,12°23′E
-Umbria,Terni,42°34′N,12°39′E
-Valle d'Aosta,Aosta,45°44′N,7°19′E
-Veneto,Belluno,46°08′N,12°12′E
-Veneto,Padova,45°24′N,11°52′E
-Veneto,Rovigo,45°04′N,11°47′E
-Veneto,Treviso,45°39′N,12°14′E
-Veneto,Venezia,45°26′N,12°19′E
-Veneto,Verona,45°26′N,10°59′E
-Veneto,Vicenza,45°33′N,11°33′E
+Abruzzo,Chieti,42.35,14.166666666666666
+Abruzzo,L'Aquila,42.35,13.383333333333333
+Abruzzo,Pescara,42.45,14.2
+Abruzzo,Teramo,42.65,13.7
+Basilicata,Matera,40.666666666666664,16.6
+Basilicata,Potenza,40.63333333333333,15.8
+Calabria,Catanzaro,38.9,16.583333333333332
+Calabria,Cosenza,39.3,16.25
+Calabria,Crotone,39.083333333333336,17.116666666666667
+Calabria,Reggio Calabria,38.1,15.65
+Calabria,Vibo Valentia,38.666666666666664,16.083333333333332
+Campania,Avellino,40.9,14.783333333333333
+Campania,Benevento,41.13333333333333,14.783333333333333
+Campania,Caserta,41.06666666666667,14.333333333333334
+Campania,Napoli,40.833333333333336,14.25
+Campania,Salerno,40.666666666666664,14.75
+Emilia-Romagna,Bologna,44.483333333333334,11.333333333333334
+Emilia-Romagna,Cesena,44.13333333333333,12.233333333333333
+Emilia-Romagna,Ferrara,44.833333333333336,11.616666666666667
+Emilia-Romagna,Forlì,44.21666666666667,12.033333333333333
+Emilia-Romagna,Modena,44.63333333333333,10.916666666666666
+Emilia-Romagna,Parma,44.8,10.316666666666666
+Emilia-Romagna,Piacenza,45.05,9.7
+Emilia-Romagna,Ravenna,44.4,12.2
+Emilia-Romagna,Reggio Emilia,44.7,10.633333333333333
+Emilia-Romagna,Rimini,44.05,12.566666666666666
+Friuli-Venezia Giulia,Gorizia,45.93333333333333,13.616666666666667
+Friuli-Venezia Giulia,Pordenone,45.95,12.65
+Friuli-Venezia Giulia,Trieste,45.65,13.766666666666667
+Friuli-Venezia Giulia,Udine,46.06666666666667,13.233333333333333
+Lazio,Frosinone,41.63333333333333,13.35
+Lazio,Latina,41.46666666666667,12.9
+Lazio,Rieti,42.4,12.85
+Lazio,Roma,41.88333333333333,12.466666666666667
+Lazio,Viterbo,42.416666666666664,12.1
+Liguria,Genova,44.4,8.933333333333334
+Liguria,Imperia,43.88333333333333,8.016666666666667
+Liguria,La Spezia,44.1,9.816666666666666
+Liguria,Savona,44.3,8.466666666666667
+Lombardia,Bergamo,45.68333333333333,9.666666666666666
+Lombardia,Brescia,45.53333333333333,10.216666666666667
+Lombardia,Como,45.8,9.083333333333334
+Lombardia,Cremona,45.13333333333333,10.033333333333333
+Lombardia,Lecco,45.85,9.4
+Lombardia,Lodi,45.31666666666667,9.5
+Lombardia,Mantova,45.15,10.783333333333333
+Lombardia,Milano,45.46666666666667,9.183333333333334
+Lombardia,Monza,45.583333333333336,9.266666666666667
+Lombardia,Pavia,45.18333333333333,9.15
+Lombardia,Sondrio,46.166666666666664,9.866666666666667
+Lombardia,Varese,45.81666666666667,8.833333333333334
+Marche,Ancona,43.61666666666667,13.516666666666667
+Marche,Ascoli Piceno,42.85,13.566666666666666
+Marche,Fermo,43.15,13.716666666666667
+Marche,Macerata,43.3,13.45
+Marche,Urbino,43.71666666666667,12.633333333333333
+Molise,Campobasso,41.55,14.666666666666666
+Molise,Isernia,41.6,14.233333333333333
+Piemonte,Alessandria,44.9,8.616666666666667
+Piemonte,Asti,44.9,8.2
+Piemonte,Biella,45.55,8.05
+Piemonte,Cuneo,44.38333333333333,7.55
+Piemonte,Novara,45.45,8.616666666666667
+Piemonte,Torino,45.06666666666667,7.7
+Piemonte,Verbania,45.916666666666664,8.55
+Piemonte,Vercelli,45.31666666666667,8.416666666666666
+Puglia,Andria,41.21666666666667,16.3
+Puglia,Bari,41.11666666666667,16.866666666666667
+Puglia,Barletta,41.31666666666667,16.283333333333335
+Puglia,Brindisi,40.63333333333333,17.933333333333334
+Puglia,Foggia,41.45,15.55
+Puglia,Lecce,40.35,18.166666666666668
+Puglia,Taranto,40.416666666666664,17.233333333333334
+Puglia,Trani,41.266666666666666,16.416666666666668
+Sardegna,Cagliari,39.21666666666667,9.116666666666667
+Sardegna,Nuoro,40.31666666666667,9.316666666666666
+Sardegna,Oristano,39.9,8.583333333333334
+Sardegna,Sassari,40.71666666666667,8.55
+Sicilia,Agrigento,37.3,13.566666666666666
+Sicilia,Caltanissetta,37.483333333333334,14.05
+Sicilia,Catania,37.5,15.083333333333334
+Sicilia,Enna,37.56666666666667,14.266666666666667
+Sicilia,Messina,38.18333333333333,15.55
+Sicilia,Palermo,38.1,13.35
+Sicilia,Ragusa,36.916666666666664,14.716666666666667
+Sicilia,Siracusa,37.06666666666667,15.283333333333333
+Sicilia,Trapani,38.016666666666666,12.5
+Toscana,Arezzo,43.45,11.866666666666667
+Toscana,Firenze,43.766666666666666,11.25
+Toscana,Grosseto,42.766666666666666,11.1
+Toscana,Livorno,43.55,10.316666666666666
+Toscana,Lucca,43.85,10.516666666666667
+Toscana,Pisa,43.71666666666667,10.4
+Toscana,Pistoia,43.93333333333333,10.916666666666666
+Toscana,Prato,43.86666666666667,11.083333333333334
+Toscana,Siena,43.31666666666667,11.316666666666666
+Trentino Alto-Adige,Bolzano,46.5,11.35
+Trentino Alto-Adige,Trento,46.06666666666667,11.116666666666667
+Umbria,Perugia,43.1,12.383333333333333
+Umbria,Terni,42.56666666666667,12.65
+Valle d'Aosta,Aosta,45.733333333333334,7.316666666666666
+Veneto,Belluno,46.13333333333333,12.2
+Veneto,Padova,45.4,11.866666666666667
+Veneto,Rovigo,45.06666666666667,11.783333333333333
+Veneto,Treviso,45.65,12.233333333333333
+Veneto,Venezia,45.43333333333333,12.316666666666666
+Veneto,Verona,45.43333333333333,10.983333333333333
+Veneto,Vicenza,45.55,11.55
