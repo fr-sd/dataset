@@ -1,106 +1,106 @@
-regione,capoluogo
-Abruzzo,Chieti
-Abruzzo,L'Aquila
-Abruzzo,Pescara
-Abruzzo,Teramo
-Basilicata,Matera
-Basilicata,Potenza
-Calabria,Catanzaro
-Calabria,Cosenza
-Calabria,Crotone
-Calabria,Reggio Calabria
-Calabria,Vibo Valentia
-Campania,Avellino
-Campania,Benevento
-Campania,Caserta
-Campania,Napoli
-Campania,Salerno
-Emilia-Romagna,Bologna
-Emilia-Romagna,Cesena
-Emilia-Romagna,Ferrara
-Emilia-Romagna,Forli
-Emilia-Romagna,Modena
-Emilia-Romagna,Parma
-Emilia-Romagna,Piacenza
-Emilia-Romagna,Ravenna
-Emilia-Romagna,Reggio Emilia
-Emilia-Romagna,Rimini
-Friuli-Venezia Giulia,Gorizia
-Friuli-Venezia Giulia,Pordenone
-Friuli-Venezia Giulia,Trieste
-Friuli-Venezia Giulia,Udine
-Lazio,Frosinone
-Lazio,Latina
-Lazio,Rieti
-Lazio,Roma
-Lazio,Viterbo
-Liguria,Genova
-Liguria,Imperia
-Liguria,La Spezia
-Liguria,Savona
-Lombardia,Bergamo
-Lombardia,Brescia
-Lombardia,Como
-Lombardia,Cremona
-Lombardia,Lecco
-Lombardia,Lodi
-Lombardia,Mantova
-Lombardia,Milano
-Lombardia,Pavia
-Lombardia,Sondrio
-Lombardia,Varese
-Marche,Ancona
-Marche,Ascoli Piceno
-Marche,Fermo
-Marche,Macerata
-Molise,Campobasso
-Molise,Isernia
-Piemonte,Alessandria
-Piemonte,Asti
-Piemonte,Biella
-Piemonte,Cuneo
-Piemonte,Novara
-Piemonte,Torino
-Piemonte,Vercelli
-Puglia,Andria
-Puglia,Bari
-Puglia,Barletta
-Puglia,Brindisi
-Puglia,Foggia
-Puglia,Lecce
-Puglia,Taranto
-Puglia,Trani
-Sardegna,Cagliari
-Sardegna,Nuoro
-Sardegna,Oristano
-Sardegna,Sassari
-Sicilia,Agrigento
-Sicilia,Caltanissetta
-Sicilia,Catania
-Sicilia,Enna
-Sicilia,Messina
-Sicilia,Palermo
-Sicilia,Ragusa
-Sicilia,Siracusa
-Sicilia,Trapani
-Toscana,Arezzo
-Toscana,Firenze
-Toscana,Grosseto
-Toscana,Livorno
-Toscana,Lucca
-Toscana,Pisa
-Toscana,Pistoia
-Toscana,Prato
-Toscana,Siena
-Trentino Alto-Adige,Bolzano
-Trentino Alto-Adige,Trento
-Umbria,Perugia
-Umbria,Terni
-Valle d'Aosta,Aosta
-Veneto,Belluno
-Veneto,Padova
-Veneto,Rovigo
-Veneto,Treviso
-Veneto,Venezia
-Veneto,Verona
-Veneto,Vicenza
+regione,capoluogo,lat,lon
+Abruzzo,Chieti,42°21′N,14°10′E
+Abruzzo,L'Aquila,42°21′N,13°23′E
+Abruzzo,Pescara,42°27′N,14°12′E
+Abruzzo,Teramo,42°39′N,13°42′E
+Basilicata,Matera,40°40′N,16°36′E
+Basilicata,Potenza,40°38′N,15°48′E
+Calabria,Catanzaro,38°54′N,16°35′E
+Calabria,Cosenza,39°18′N,16°15′E
+Calabria,Crotone,39°05′N,17°07′E
+Calabria,Reggio Calabria,38°06′N,15°39′E
+Calabria,Vibo Valentia,38°40′N,16°05′E
+Campania,Avellino,40°54′N,14°47′E
+Campania,Benevento,41°08′N,14°47′E
+Campania,Caserta,41°04′N,14°20′E
+Campania,Napoli,40°50′N,14°15′E
+Campania,Salerno,40°40′N,14°45′E
+Emilia-Romagna,Bologna,44°29′N,11°20′E
+Emilia-Romagna,Cesena,44°08′N,12°14′E
+Emilia-Romagna,Ferrara,44°50′N,11°37′E
+Emilia-Romagna,Forli,44°13′N,12°02′E
+Emilia-Romagna,Modena,44°38′N,10°55′E
+Emilia-Romagna,Parma,44°48′N,10°19′E
+Emilia-Romagna,Piacenza,45°03′N,9°42′E
+Emilia-Romagna,Ravenna,44°24′N,12°12′E
+Emilia-Romagna,Reggio Emilia,44°42′N,10°38′E
+Emilia-Romagna,Rimini,44°03′N,12°34′E
+Friuli-Venezia Giulia,Gorizia,45°56′N,13°37′E
+Friuli-Venezia Giulia,Pordenone,45°57′N,12°39′E
+Friuli-Venezia Giulia,Trieste,45°39′N,13°46′E
+Friuli-Venezia Giulia,Udine,46°04′N,13°14′E
+Lazio,Frosinone,41°38′N,13°21′E
+Lazio,Latina,41°28′N,12°54′E
+Lazio,Rieti,42°24′N,12°51′E
+Lazio,Roma,41°53′N,12°28′E
+Lazio,Viterbo,42°25′N,12°06′E
+Liguria,Genova,44°24′N,8°56′E
+Liguria,Imperia,43°53′N,8°01′E
+Liguria,La Spezia,44°06′N,9°49′E
+Liguria,Savona,44°18′N,8°28′E
+Lombardia,Bergamo,45°41′N,9°40′E
+Lombardia,Brescia,45°32′N,10°13′E
+Lombardia,Como,45°48′N,9°05′E
+Lombardia,Cremona,45°08′N,10°02′E
+Lombardia,Lecco,45°51′N,9°24′E
+Lombardia,Lodi,45°19′N,9°30′E
+Lombardia,Mantova,45°09′N,10°47′E
+Lombardia,Milano,45°28′N,9°11′E
+Lombardia,Pavia,45°11′N,9°09′E
+Lombardia,Sondrio,46°10′N,9°52′E
+Lombardia,Varese,45°49′N,8°50′E
+Marche,Ancona,43°37′N,13°31′E
+Marche,Ascoli Piceno,42°51′N,13°34′E
+Marche,Fermo,43°09′N,13°43′E
+Marche,Macerata,43°18′N,13°27′E
+Molise,Campobasso,41°33′N,14°40′E
+Molise,Isernia,41°36′N,14°14′E
+Piemonte,Alessandria,44°54′N,8°37′E
+Piemonte,Asti,44°54′N,8°12′E
+Piemonte,Biella,45°33′N,8°03′E
+Piemonte,Cuneo,44°23′N,7°33′E
+Piemonte,Novara,45°27′N,8°37′E
+Piemonte,Torino,45°04′N,7°42′E
+Piemonte,Vercelli,45°19′N,8°25′E
+Puglia,Andria,41°13′N,16°18′E
+Puglia,Bari,41°07′N,16°52′E
+Puglia,Barletta,41°19′N,16°17′E
+Puglia,Brindisi,40°38′N,17°56′E
+Puglia,Foggia,41°27′N,15°33′E
+Puglia,Lecce,40°21′N,18°10′E
+Puglia,Taranto,40°25′N,17°14′E
+Puglia,Trani,41°16′N,16°25′E
+Sardegna,Cagliari,39°13′N,9°07′E
+Sardegna,Nuoro,40°19′N,9°19′E
+Sardegna,Oristano,39°54′N,8°35′E
+Sardegna,Sassari,40°43′N,8°33′E
+Sicilia,Agrigento,37°18′N,13°34′E
+Sicilia,Caltanissetta,37°29′N,14°03′E
+Sicilia,Catania,37°30′N,15°05′E
+Sicilia,Enna,37°34′N,14°16′E
+Sicilia,Messina,38°11′N,15°33′E
+Sicilia,Palermo,38°06′N,13°21′E
+Sicilia,Ragusa,36°55′N,14°43′E
+Sicilia,Siracusa,37°04′N,15°17′E
+Sicilia,Trapani,38°01′N,12°30′E
+Toscana,Arezzo,43°27′N,11°52′E
+Toscana,Firenze,43°46′N,11°15′E
+Toscana,Grosseto,42°46′N,11°06′E
+Toscana,Livorno,43°33′N,10°19′E
+Toscana,Lucca,43°51′N,10°31′E
+Toscana,Pisa,43°43′N,10°24′E
+Toscana,Pistoia,43°56′N,10°55′E
+Toscana,Prato,43°52′N,11°05′E
+Toscana,Siena,43°19′N,11°19′E
+Trentino Alto-Adige,Bolzano,46°30′N,11°21′E
+Trentino Alto-Adige,Trento,46°04′N,11°07′E
+Umbria,Perugia,43°06′N,12°23′E
+Umbria,Terni,42°34′N,12°39′E
+Valle d'Aosta,Aosta,45°44′N,7°19′E
+Veneto,Belluno,46°08′N,12°12′E
+Veneto,Padova,45°24′N,11°52′E
+Veneto,Rovigo,45°04′N,11°47′E
+Veneto,Treviso,45°39′N,12°14′E
+Veneto,Venezia,45°26′N,12°19′E
+Veneto,Verona,45°26′N,10°59′E
+Veneto,Vicenza,45°33′N,11°33′E
